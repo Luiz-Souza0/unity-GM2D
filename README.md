@@ -3,11 +3,11 @@
 > :construction: Projeto em construção :construction:
 
 <h2> Introdution </h2>
-A 2d game in unity for pc uses
+<p>A 2d game in unity for pc uses </p>
 this game explore the functionalities of jump, pass level, run, animations and more features.
 
 
-:hammer: Funcionalidades do projeto
+<h2>🍙: Funcionalidades do projeto: </h2>
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
